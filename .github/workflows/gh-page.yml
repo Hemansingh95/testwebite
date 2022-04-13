@@ -30,4 +30,3 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
-For more advanced settings actions-hugo and actions-gh-pages.
