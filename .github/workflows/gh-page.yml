@@ -3,7 +3,7 @@ name: github pages
 on:
   push:
     branches:
-      - main  # Set a braSDASnch to deploy
+      - master  # Set a braSDASnch to deploy
   pull_request:
 
 jobs:
